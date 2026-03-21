@@ -26,7 +26,7 @@ Add to your MCP config:
 {
   "mcpServers": {
     "hackyx": {
-      "type": "streamable-http",
+      "type": "http",
       "url": "http://localhost:8000/mcp"
     }
   }
